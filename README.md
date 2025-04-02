@@ -1,11 +1,11 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Obasho 👋
 
 ### MSc Physics Student at IIT Mandi
 
 Computational physicist specializing in neural networks, numerical simulations, and solving complex physical systems at the intersection of physics and computer science.
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/youruserid?v=4" alt="Profile Picture" width="200" height="200" style="border-radius:50%;"> 
+  <img src="https://avatars.githubusercontent.com/u/Obasho10?v=4" alt="Profile Picture" width="200" height="200" style="border-radius:50%;"> 
   <!-- Replace 'youruserid' with your actual GitHub user ID -->
 </p>
 
@@ -52,7 +52,7 @@ I'm an MSc Physics student at IIT Mandi with a strong passion for computational 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Pytorch&logoColor=white" alt="Pytorch"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <!-- Add more badges from shields.io as needed -->
 </p>
@@ -62,9 +62,8 @@ I'm an MSc Physics student at IIT Mandi with a strong passion for computational 
 *   **Indian Institute of Technology Mandi** (2022 - Present)
     *   MSc Physics
     *   *Specialization in Computational Physics and Machine Learning applications in Physics*
-*   **[Your Previous University Name]** (2019 - 2022)
+*   **Hansraj Collage(University of Delhi)** (2019 - 2022)
     *   BSc Physics
-    *   *Coursework in computational methods*
 
 📄 **[Download My Academic CV](link-to-your-cv.pdf)** *(Replace with a link to your hosted CV)*
 
@@ -75,33 +74,16 @@ I'm an MSc Physics student at IIT Mandi with a strong passion for computational 
 *(Consider using tools like GitHub Readme Stats for dynamic images)*
 
 Example using GitHub Readme Stats (replace `yourusername`):
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Obasho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obasho10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obaho10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## ✨ Featured Projects
-
-*(Highlight 1-2 key projects here. Use GitHub's "Pinned Repositories" feature on your profile for a more dynamic list)*
-
-###  CMB Analysis using ANNs
-*   Artificial neural network pipeline for cosmic microwave background radiation analysis and pattern recognition.
-*   *Tech:* `Python`, `PyTorch`, `Neural Networks`, `Astrophysics`
-*   [View Repository](https://github.com/yourusername/cmb-ann-pipeline) *(Replace link)*
-
-### Molecular Dynamics Domain Decomposition
-*   Parallel computing approach for large-scale molecular dynamics simulations using domain decomposition.
-*   *Tech:* `C++`, `MPI`, `OpenMP`, `HPC`
-*   [View Repository](https://github.com/yourusername/molecular-dynamics) *(Replace link)*
-
-➡️ **[View All My Projects on GitHub](https://github.com/yourusername?tab=repositories)** *(Replace `yourusername`)*
-
----
 
 ## 📫 Get In Touch
 
-*   **Academic Email:** [your.email@students.iitmandi.ac.in](mailto:your.email@students.iitmandi.ac.in) *(Replace email)*
-*   **GitHub:** [github.com/yourusername](https://github.com/yourusername) *(Replace username)*
+*   **Academic Email:** [v23097@students.iitmandi.ac.in](mailto:your.email@students.iitmandi.ac.in) *(Replace email)*
+*   **GitHub:** [github.com/Obasho10](https://github.com/yourusername) *(Replace username)*
 *   **LinkedIn:** [linkedin.com/in/yourlinkedinprofile](https://linkedin.com/in/yourlinkedinprofile) *(Replace link)*
 *   **Location:** IIT Mandi, Himachal Pradesh, India 🇮🇳
 
