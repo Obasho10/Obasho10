@@ -6,7 +6,6 @@ Computational physicist specializing in neural networks, numerical simulations, 
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/Obasho10?v=4" alt="Profile Picture" width="200" height="200" style="border-radius:50%;"> 
-  <!-- Replace 'youruserid' with your actual GitHub user ID -->
 </p>
 
 ---
@@ -65,17 +64,14 @@ I'm an MSc Physics student at IIT Mandi with a strong passion for computational 
 *   **Hansraj Collage(University of Delhi)** (2019 - 2022)
     *   BSc Physics
 
-📄 **[Download My Academic CV](link-to-your-cv.pdf)** *(Replace with a link to your hosted CV)*
-
+📄 **[Download My Academic CV](link-to-your-cv.pdf)**
 ---
 
 ## 📊 GitHub Stats & Activity
 
-*(Consider using tools like GitHub Readme Stats for dynamic images)*
 
-Example using GitHub Readme Stats (replace `yourusername`):
 [![Obasho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obasho10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obaho10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obasho10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
