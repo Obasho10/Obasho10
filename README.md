@@ -53,7 +53,7 @@ I'm an MSc Physics student at IIT Mandi with a strong passion for computational 
 *   **Indian Institute of Technology Mandi** (2022 - Present)
     *   MSc Physics
     *   *Specialization in Computational Physics and Machine Learning applications in Physics*
-*   **Hansraj Collage(University of Delhi)** (2019 - 2022)
+*   **Hansraj College(University of Delhi)** (2019 - 2022)
     *   BSc Physics
 
 
@@ -68,9 +68,8 @@ I'm an MSc Physics student at IIT Mandi with a strong passion for computational 
 
 ## 📫 Get In Touch
 
-*   **Academic Email:** [v23097@students.iitmandi.ac.in](mailto:your.email@students.iitmandi.ac.in) *(Replace email)*
-*   **GitHub:** [github.com/Obasho10](https://github.com/yourusername) *(Replace username)*
-*   **LinkedIn:** [linkedin.com/in/yourlinkedinprofile](https://linkedin.com/in/yourlinkedinprofile) *(Replace link)*
+*   **Academic Email:** [v23097@students.iitmandi.ac.in](mailto:v23097@students.iitmandi.ac.in) 
+*   **GitHub:** [github.com/Obasho10](https://github.com/Obasho10) 
 *   **Location:** IIT Mandi, Himachal Pradesh, India 🇮🇳
 
 <!-- Optional: Add links to Google Scholar, ResearchGate etc. -->
