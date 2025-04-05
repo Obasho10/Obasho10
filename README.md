@@ -78,5 +78,5 @@ I'm an MSc Physics student at IIT Mandi with a strong passion for computational 
 
 ---
 <p align="center">
-  © 2023 [Your Name] | MSc Physics, IIT Mandi
+  © 2023 [Obasho M] | MSc Physics, IIT Mandi
 </p>
