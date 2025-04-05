@@ -10,17 +10,17 @@ Computational physicist specializing in neural networks, numerical simulations, 
 
 ---
 
-## 🔭 My Research Focus
+## My Research Focus
 
 Interdisciplinary research combining physics with computational methods.
 
-### 🧠 Neural Networks in Physics
+### Neural Networks in Physics
 Developing machine learning approaches for solving complex physical systems, with applications in cosmology, quantum mechanics, and general relativity.
 *   Physics-Informed Neural Networks (PINNs)
 *   Neural Network-based PDE Solvers
 *   Bayesian Neural Networks for Uncertainty Quantification
 
-### 🔬 Computational Physics
+### Computational Physics
 Numerical solutions to challenging physics problems through high-performance computing and efficient algorithms.
 *   Domain Decomposition Methods
 *   Parallel Computing (MPI, OpenMP)
@@ -40,7 +40,7 @@ Numerical solutions to challenging physics problems through high-performance com
 
 I'm an MSc Physics student at IIT Mandi with a strong passion for computational physics and the intersection of physics with computer science. My work focuses on developing numerical methods and machine learning approaches to solve complex physical systems. With expertise in Python and C++, I've built several projects that apply computational techniques to physics problems.
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 *   **Languages:** Python (NumPy, SciPy, PyTorch/TensorFlow), C/C++, Java, HTML/CSS, JavaScript
 *   **Tools & Concepts:** Neural Networks, High-Performance Computing (HPC), MPI, OpenMP, Git, Linux
@@ -48,7 +48,7 @@ I'm an MSc Physics student at IIT Mandi with a strong passion for computational 
 
 
 
-### 🎓 Education
+### Education
 
 *   **Indian Institute of Technology Mandi** (2022 - Present)
     *   MSc Physics
@@ -56,8 +56,6 @@ I'm an MSc Physics student at IIT Mandi with a strong passion for computational 
 *   **Hansraj Collage(University of Delhi)** (2019 - 2022)
     *   BSc Physics
 
-📄 **[Download My Academic CV](link-to-your-cv.pdf)**
----
 
 ## 📊 GitHub Stats & Activity
 
